@@ -236,7 +236,7 @@ platform = 'Windows' if os.name in ('nt', 'dos') else 'Linux'
 
 print("detected "+platform)
 
-termsandcontitions = "Yes, i agree to terms and conditions!"
+termsandconditions = "Yes, i agree to terms and conditions!"
 
 choice = input(f"""
 [PLEASE READ]
@@ -246,7 +246,7 @@ on your android phone. You're also assuming every responsibility for any possibl
 
 > """)
 
-if choice != termsandcontitions:
+if choice != termsandconditions:
     print("\n[-] You didn't accept the terms & conditions of this program, exiting.")
     exit(1)
     
