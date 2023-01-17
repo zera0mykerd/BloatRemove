@@ -8,7 +8,7 @@ you need Android Debug Bridge installed on your computer and enabled on your pho
 
 
 # ⚠️ Warning: 
-
+![alt-text](https://github.com/n0nexist/Android-Bloat-Remover/blob/main/screenshot.png?raw=true)<br>
 <b>Run file at <u><i>YOUR OWN RISK</u></i>, you take full responsibility for any damage caused to your phone.</b>
 <br>
 # ☠️ Caution: 
